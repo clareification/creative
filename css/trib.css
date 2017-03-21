@@ -1,14 +1,28 @@
 .literary {
 	font-family: 'Pathway Gothic One', sans-serif;
 	padding-left:5px ;
+	color:#25AAE1;
 }
 p{
+	color:black;
 	font-family: 'Raleway', sans-serif;
 }
 body{
 	font-family: 'Pathway Gothic One', sans-serif; 
+	text-align:center;
+}
+.story p {
+	text-align: left;
 }
 
 .lit-content{
+	COLOR:#25aae1;
 	padding:10px;
+	border-bottom: 2px solid #25aae1;
+}
+a:hover{
+	text-decoration: none;
+}
+a{
+	color: inherit;
 }
