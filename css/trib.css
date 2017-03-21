@@ -26,3 +26,7 @@ a:hover{
 a{
 	color: inherit;
 }
+
+.modal-content{
+	border-radius: 0px;
+}
